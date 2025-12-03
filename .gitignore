@@ -1,0 +1,15 @@
+# Ignorar directorios
+**/output/
+**/output_server/
+**/results/
+**/__pycache__/
+**/volumes/
+**/.vscode
+
+# Ignorar ficheros
+.DS_Store
+synthetic_model/python_code/main2.py
+synthetic_model/temperature_ambience/val_modelo_tmp.pdf
+synthetic_model/temperature_ambience/almonte_2023_temp_horaria.pdf
+synthetic_model/temperature_ambience/almonte_2023_temp_amb_mod2.csv
+structure.txt
