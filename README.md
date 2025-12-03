@@ -2,7 +2,7 @@
 
 This repository contains the Python scripts for the **generation of a synthetic temperature profile** for the previously defined regions of a transformer, simulating its thermal behavior over a full year based on its thermal data collected over a single day. Additionally, the **optimal parameters of the AR model** for the proposed prediction algorithm is studied.
 
-<img src="termico.gif" alt="Thermal model animation" width="600"/>
+<img src="termico.gif" alt="Thermal model animation" width="600"/ center="true">
 
 ---
 
@@ -10,7 +10,7 @@ This repository contains the Python scripts for the **generation of a synthetic 
 
 This project implements a set of **Python** scripts (based on an previous **MATLAB** implementation of the project) to generate and analyze synthetic annual temperature values in various zones of an electrical transformer, starting from its temperature values for a specific day. This is done by modeling the transformer as a thermal system with random anomalies and malfunctions. The goal is not to create a model that perfectly matches the real-world system, but one that exhibits behavior **qualitatively similar** to that of an electrical transformer.
 
-Subsequently, using this synthetic data, the performance of an **autoregressive (AR) algorithm** based on Artificial Intelligence and designed for **detecting thermal anomalies** in the transformer's components is tested. This is the **primary objective** for using this data. Beforehand, the **optimal order** of this algorithm is studied for its best performance.
+Subsequently, using this synthetic data, the performance of an **autoregressive (AR) algorithm** based on Artificial Intelligence and designed for **detecting thermal novelties** in the transformer's components is tested. This is the **primary objective** for using this data. Beforehand, the **optimal order** of this algorithm is studied for its best performance.
 
 Associated article link for more detail:
 
