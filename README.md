@@ -2,7 +2,7 @@
 
 This repository contains the Python scripts for the **generation of a synthetic temperature profile** for the previously defined regions of a transformer, simulating its thermal behavior over a full year based on its thermal data collected over a single day. Additionally, the **optimal parameters of the AR model** for the proposed prediction algorithm is studied.
 
-<img src="termico.gif" alt="Thermal model animation" width="600" center="true">
+<p style="text-align:center"><img src="termico.gif" alt="Thermal model animation" width="600" center="true"></p>
 
 ---
 
